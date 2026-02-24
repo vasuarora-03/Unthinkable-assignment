@@ -11,7 +11,7 @@ It contains:
 From the project root:
 
 ```powershell
-cd ""
+cd "path of the project folder"
 javac -d out (Get-ChildItem -Recurse -Filter *.java | ForEach-Object FullName)
 java -cp out com.smartrecipe.Main
 ```
