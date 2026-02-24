@@ -1,4 +1,4 @@
-# Smart Recipe Generator (Plain Java - Skeleton)
+# Smart Recipe Generator 
 
 It contains:
 - simple model classes (`Recipe`, `Ingredient`, `NutritionInfo`)
